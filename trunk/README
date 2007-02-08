@@ -1,0 +1,11 @@
+SemFS is a driver to mount a filesystem where the files can be accessed based
+on it's semantic meaning (properties) rather than its location alone. i.e. To
+reach an MP3 file based on its id3 data or a JPEG file on ir EXIF data.
+
+SemFS was presented as a poster at the 13th IEEE International Conference on
+High Performance Computing in Dec. '06.
+http://hipc.org/hipc2006/posters/semfs.pdf
+
+This Project is licensed under the New BSD License. In simple terms parts of
+this project can be reused without permission and there is no requirements that
+the changes be made publicly accessible.
