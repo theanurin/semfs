@@ -1,0 +1,6 @@
+2007-02-22  Prashanth Mohan  <prashmohan@gmail.com>
+
+	* semfs.c: Currently mounts the directory and normal file system
+	activity is supported. Notifies dameon for write, create, unlink,
+	rmdir and mkdir. Symlink is yet to be implemented.
+
