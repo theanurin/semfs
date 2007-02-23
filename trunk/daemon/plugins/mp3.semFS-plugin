@@ -1,0 +1,8 @@
+[SemFS Plugin]
+module = mp3
+description = "Retriving metadata of the mp3 files"
+application = " Plugin for Semantic File System"
+author = " Prashanth, Raghu Raman, Venkateswaren "
+email_id= " {prashmohan,raaghum2222,wenkat.s}@gmail.com
+
+
